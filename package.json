@@ -1,0 +1,11 @@
+{
+  "name": "eternalife-snack",
+  "version": "0.0.1",
+  "main": "App.js",
+  "private": true,
+  "dependencies": {
+    "expo": "~51.0.14",
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  }
+}
